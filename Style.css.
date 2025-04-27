@@ -1,0 +1,47 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    background-color: #e0f7fa;
+    text-align: center;
+}
+
+.container {
+    margin-top: 50px;
+    padding: 20px;
+}
+
+h1 {
+    font-size: 40px;
+    color: #00796b;
+}
+
+.frase {
+    font-size: 18px;
+    margin: 20px 0;
+    color: #004d40;
+}
+
+.foto {
+    margin-top: 20px;
+    width: 180px;
+    height: 180px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 4px solid #00796b;
+}
+
+.info {
+    margin-top: 30px;
+    font-size: 18px;
+    color: #333;
+}
+
+.info a {
+    color: #00796b;
+    text-decoration: none;
+}
+
+.info a:hover {
+    text-decoration: underline;
+}
