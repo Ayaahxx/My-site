@@ -1,0 +1,19 @@
+<!DOCTYPE html><html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Marcos Caruca</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Marcos Caruca</h1>
+        <p class="frase">"Administrar é transformar problemas em soluções antes que eles virem tragédias."</p>
+        <img src="sua-foto.jpg" alt="Foto de Marcos" class="foto">
+        <div class="info">
+            <p><strong>Instagram:</strong> <a href="https://instagram.com/seu_usuario" target="_blank">@seu_usuario</a></p>
+            <p><strong>Discord:</strong> <a href="https://discord.com/users/seu_id" target="_blank">SeuDiscord#0000</a></p>
+        </div>
+    </div>
+</body>
+</html>
